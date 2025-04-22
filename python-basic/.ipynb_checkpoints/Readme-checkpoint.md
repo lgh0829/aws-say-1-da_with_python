@@ -137,12 +137,12 @@ drive(c2)  # 런타임 시점에 Genesis 객체의 run() 메서드 실행
 ```
 
 **목차**
-- [ex08 클래스설명자료](python-basic/ex08_class_클래스설명.pdf)
-- [ex08 클래스 1](python-basic/ex08_클래스_1.ipynb)
-- [ex08 클래스 2](python-basic/ex08_클래스_2.ipynb)
-- [ex08 클래스 3](python-basic/ex08_클래스_3.ipynb)
-- [ex09 클래스 상속](python-basic/ex09_클래스_상속.ipynb)
-- [ex10 클래스 활용](python-basic/ex10_클래스_활용.ipynb)
+- [ex08 클래스설명자료](ex08_class_클래스설명.pdf)
+- [ex08 클래스 1](ex08_클래스_1.ipynb)
+- [ex08 클래스 2](ex08_클래스_2.ipynb)
+- [ex08 클래스 3](ex08_클래스_3.ipynb)
+- [ex09 클래스 상속](ex09_클래스_상속.ipynb)
+- [ex10 클래스 활용](ex10_클래스_활용.ipynb)
 
 ## 모듈
 
@@ -213,7 +213,7 @@ finally : # 예외 발생과 상관없이 항상 실행되는 구문
 - Exception: 모든 예외의 부모 클래스 (모든 에러를 잡고 싶을 때)
 
 **목차**
-- [ex12 예외처리](python-basic/ex12_예외처리.ipynb)
+- [ex12 예외처리](/python-basic/ex12_예외처리.ipynb)
 
 ## 파일입출력
 
