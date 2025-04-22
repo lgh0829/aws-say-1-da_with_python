@@ -49,10 +49,10 @@ for i in range(2,10):
 ```
 
 **목차**
-- [ex01 데이터타입](/python-basic/ex01_데이터타입.ipynb)
-- [ex02 데이터구조 리스트](/python-basic/ex02_데이터구조_리스트.ipynb)
-- [ex03 데이터구조 투플](/python-basic/ex03_데이터구조_투플.ipynb)
-- [ex04 데이터구조 딕셔너리](/python-basic/ex04_데이터구조_딕셔너리.ipynb)
+- [ex01 데이터타입](python-basic/ex01_데이터타입.ipynb)
+- [ex02 데이터구조 리스트](python-basic/ex02_데이터구조_리스트.ipynb)
+- [ex03 데이터구조 투플](python-basic/ex03_데이터구조_투플.ipynb)
+- [ex04 데이터구조 딕셔너리](python-basic/ex04_데이터구조_딕셔너리.ipynb)
 
 ## 제어문
 
@@ -63,8 +63,8 @@ for i in range(2,10):
 **반복문**: for, while
 
 **목차**
--[ex05 제어문(조건문과 반복문) 설명](/python-basic/ex06_제어문(조건문과 반복문)설명.pdf)
--[ex06 제어문](/python-basic/ex06_제어문.ipynb)
+-[ex05 제어문(조건문과 반복문) 설명](python-basic/ex06_제어문(조건문과 반복문)설명.pdf)
+-[ex06 제어문](python-basic/ex06_제어문.ipynb)
 
 ## 함수
 
@@ -76,7 +76,7 @@ for i in range(2,10):
 - 정의한 함수를 사용할 때
 
 **목차**
-- [ex07 함수](/python-basic/ex07_함수.ipynb)
+- [ex07 함수](python-basic/ex07_함수.ipynb)
 
 ## 클래스
 
@@ -137,12 +137,12 @@ drive(c2)  # 런타임 시점에 Genesis 객체의 run() 메서드 실행
 ```
 
 **목차**
-- [ex08 클래스설명자료](/python-basic/ex08_class_클래스설명.pdf)
-- [ex08 클래스 1](/python-basic/ex08_클래스_1.ipynb)
-- [ex08 클래스 2](/python-basic/ex08_클래스_2.ipynb)
-- [ex08 클래스 3](/python-basic/ex08_클래스_3.ipynb)
-- [ex09 클래스 상속](/python-basic/ex09_클래스_상속.ipynb)
-- [ex10 클래스 활용](/python-basic/ex10_클래스_활용.ipynb)
+- [ex08 클래스설명자료](python-basic/ex08_class_클래스설명.pdf)
+- [ex08 클래스 1](python-basic/ex08_클래스_1.ipynb)
+- [ex08 클래스 2](python-basic/ex08_클래스_2.ipynb)
+- [ex08 클래스 3](python-basic/ex08_클래스_3.ipynb)
+- [ex09 클래스 상속](python-basic/ex09_클래스_상속.ipynb)
+- [ex10 클래스 활용](python-basic/ex10_클래스_활용.ipynb)
 
 ## 모듈
 
@@ -162,7 +162,7 @@ drive(c2)  # 런타임 시점에 Genesis 객체의 run() 메서드 실행
 - 그러나 명확하지 않기 때문에 협업할 때에는 비추천
 
 **목차**
-- [ex11 모듈 import](/python-basic/ex11_import.ipynb)
+- [ex11 모듈 import](python-basic/ex11_import.ipynb)
 
 ## 예외처리
 
@@ -213,7 +213,7 @@ finally : # 예외 발생과 상관없이 항상 실행되는 구문
 - Exception: 모든 예외의 부모 클래스 (모든 에러를 잡고 싶을 때)
 
 **목차**
-- [ex12 예외처리](/python-basic/ex12_예외처리.ipynb)
+- [ex12 예외처리](python-basic/ex12_예외처리.ipynb)
 
 ## 파일입출력
 
@@ -269,7 +269,7 @@ python에서 바이너리파일 활용 예시
 - 파일 여는 방법 2: `with open("googlelogo.png","wb")   as  img  :  # 자동 close 됩니다.`
 
 **목차**
-- [ex13 파일입출력](/python-basic/ex13_파일입출력.ipynb)
+- [ex13 파일입출력](python-basic/ex13_파일입출력.ipynb)
 
 
 ## Requirements
