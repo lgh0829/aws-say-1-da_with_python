@@ -5,6 +5,7 @@
 
 - BeautifulSoup4
 - urllib.request (HTML 저장시 사용 가능)
+- KoNLPy (자바 기반의 외부 라이브러리인 JPype를 사용하기 때문 KoNLPy를 사용하려면 자바가 설치되어 있어야 gka)
 
 ## 웹 크롤링
 
@@ -100,5 +101,16 @@ plt.show()
 | `plt.imshow(wc)`                                        | 워드클라우드 이미지 시각화                    |
 | `plt.axis('off')`                                       | 축 제거                                       |
 | `plt.show()`                                            | 이미지 표시                                   |
+
+
+## 데이터 전처리 - 자연어
+
+한국어
+Kkma: 자연어에서 명사만 추출해줌
+Okt: 자연어에서 품사, 형태소 단위에 따라서 추출해줌
+
+영어
+nltk: 
+
 
 

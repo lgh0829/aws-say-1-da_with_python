@@ -1,0 +1,6 @@
+# Word2Vec 관련 대용량 파일 무시
+*.npy
+*.model04_data-preprocessing/nlp/w2v/
+04_data-preprocessing/nlp/w2v/
+04_data-preprocessing/nlp/test/
+04_data-preprocessing/nlp/w2v.zip
