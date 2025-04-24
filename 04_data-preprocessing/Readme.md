@@ -79,8 +79,9 @@ cf. array 차원 별 명칭
 
 > 정규화는 자주 쓰이지만, 표준화는 상황에 따라 선택적으로 사용됨
 
-- **MinMaxScaler**: 값의 범위를 0~1 사이로 변환 (정규화)
-- **StandardScaler**: 평균을 0, 표준편차를 1로 맞춤 (표준화)  
+**활용**
+- MinMaxScaler: 값의 범위를 0~1 사이로 변환 (정규화)
+- StandardScaler: 평균을 0, 표준편차를 1로 맞춤 (표준화)  
   → 최솟값/최댓값의 스케일 제약은 없음
 
 ![Scaler](etc/scaler.png)
